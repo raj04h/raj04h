@@ -25,6 +25,25 @@ Building intelligent autonomous systems for UAVs, robotics, perception, navigati
 - 🌐 Backend Systems & AI Infrastructure
 
 ---
+# 🚁 Flagship Project
+
+## Autonomous Counter-UAS Interceptor
+
+Unauthorized drones pose a growing threat to airports, military installations, and critical infrastructure. Traditional counter measures such as GPS tracking or radio jamming are ineffective against autonomous or GPS-denied targets. :contentReference[oaicite:1]{index=1}
+
+This project develops an **autonomous vision-guided interceptor drone** capable of detecting, tracking, localizing, predicting, and pursuing hostile UAVs using only onboard perception and self-telemetry. The objective is to build a complete autonomy stack that enables real-time target interception without relying on external infrastructure or target cooperation. :contentReference[oaicite:2]{index=2}
+
+**Perception → Tracking → Localization → State Estimation → Prediction → Guidance → Autonomous Interception**
+
+**Core Pipeline**
+
+`Perception → Tracking → State Estimation → Trajectory Prediction → Guidance → PX4 Offboard Control → Autonomous Interception`
+
+**Technology**
+
+`ROS2 • PX4 • Gazebo • MAVLink • YOLO • DeepSORT • Kalman Filter • PnP • FastAPI • PostgreSQL • Docker`
+
+---
 
 # 💻 Tech Stack
 
@@ -171,26 +190,6 @@ Building intelligent autonomous systems for UAVs, robotics, perception, navigati
 ![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-556B2F?style=for-the-badge)
 ![Real-Time Systems](https://img.shields.io/badge/Real--Time_Systems-008080?style=for-the-badge)
 ![System Architecture](https://img.shields.io/badge/System_Architecture-696969?style=for-the-badge)
-
----
-
-# 🚁 Flagship Project
-
-## Autonomous Counter-UAS Interceptor
-
-Unauthorized drones pose a growing threat to airports, military installations, and critical infrastructure. Traditional counter measures such as GPS tracking or radio jamming are ineffective against autonomous or GPS-denied targets. :contentReference[oaicite:1]{index=1}
-
-This project develops an **autonomous vision-guided interceptor drone** capable of detecting, tracking, localizing, predicting, and pursuing hostile UAVs using only onboard perception and self-telemetry. The objective is to build a complete autonomy stack that enables real-time target interception without relying on external infrastructure or target cooperation. :contentReference[oaicite:2]{index=2}
-
-**Perception → Tracking → Localization → State Estimation → Prediction → Guidance → Autonomous Interception**
-
-**Core Pipeline**
-
-`Perception → Tracking → State Estimation → Trajectory Prediction → Guidance → PX4 Offboard Control → Autonomous Interception`
-
-**Technology**
-
-`ROS2 • PX4 • Gazebo • MAVLink • YOLO • DeepSORT • Kalman Filter • PnP • FastAPI • PostgreSQL • Docker`
 
 ---
 
