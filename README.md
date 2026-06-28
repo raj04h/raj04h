@@ -7,15 +7,16 @@
 - 🌐 Backend Systems & AI Infrastructure
 
 ---
+
 # 🚁 Flagship Project
 
 ## Autonomous Counter-UAS Interceptor
 
-Unauthorized drones pose a growing threat to airports, military installations, and critical infrastructure. Traditional counter measures such as GPS tracking or radio jamming are ineffective against autonomous or GPS-denied targets. :contentReference[oaicite:1]{index=1}
+Unauthorized drones pose a growing threat to airports, military installations, and critical infrastructure. Traditional counter measures such as GPS tracking or radio jamming are ineffective against autonomous or GPS-denied targets. :contentReference.
 
-This project develops an **autonomous vision-guided interceptor drone** capable of detecting, tracking, localizing, predicting, and pursuing hostile UAVs using only onboard perception and self-telemetry. The objective is to build a complete autonomy stack that enables real-time target interception without relying on external infrastructure or target cooperation. :contentReference[oaicite:2]{index=2}
+This project develops an **autonomous vision-guided interceptor drone** capable of detecting, tracking, localizing, predicting, and pursuing hostile UAVs using only onboard perception and self-telemetry. The objective is to build a complete autonomy stack that enables real-time target interception without relying on external infrastructure or target cooperation. :contentReference.
 
-**Perception → Tracking → Localization → State Estimation → Prediction → Guidance → Autonomous Interception**
+<img width="985" height="93" alt="image" src="https://github.com/user-attachments/assets/ed3416da-582e-4b26-ad57-8ab269d53f58" />
 
 **Core Pipeline**
 
@@ -35,12 +36,10 @@ This project develops an **autonomous vision-guided interceptor drone** capable 
 ![PX4](https://img.shields.io/badge/PX4-000000?style=for-the-badge)
 ![Gazebo](https://img.shields.io/badge/Gazebo-F58113?style=for-the-badge)
 ![MAVLink](https://img.shields.io/badge/MAVLink-0078D4?style=for-the-badge)
-![MAVSDK](https://img.shields.io/badge/MAVSDK-00599C?style=for-the-badge)
 ![Micro XRCE-DDS](https://img.shields.io/badge/Micro_XRCE--DDS-1E90FF?style=for-the-badge)
 ![DDS](https://img.shields.io/badge/DDS-4169E1?style=for-the-badge)
 ![ROS2 QoS](https://img.shields.io/badge/ROS2_QoS-4682B4?style=for-the-badge)
 ![TF2](https://img.shields.io/badge/TF2-6A5ACD?style=for-the-badge)
-![RViz2](https://img.shields.io/badge/RViz2-8A2BE2?style=for-the-badge)
 ![QGroundControl](https://img.shields.io/badge/QGroundControl-2E8B57?style=for-the-badge)
 ![Offboard Control](https://img.shields.io/badge/Offboard_Control-B22222?style=for-the-badge)
 ![Autonomous Navigation](https://img.shields.io/badge/Autonomous_Navigation-228B22?style=for-the-badge)
@@ -56,7 +55,7 @@ This project develops an **autonomous vision-guided interceptor drone** capable 
 ![Multi-Object Tracking](https://img.shields.io/badge/Multi_Object_Tracking-success?style=for-the-badge)
 ![DeepSORT](https://img.shields.io/badge/DeepSORT-009688?style=for-the-badge)
 ![ByteTrack](https://img.shields.io/badge/ByteTrack-FF4500?style=for-the-badge)
-![OCSORT](https://img.shields.io/badge/OCSORT-6A5ACD?style=for-the-badge)
+![OCR](https://img.shields.io/badge/OCR-6A5ACD?style=for-the-badge)
 ![Kalman Filter](https://img.shields.io/badge/Kalman_Filter-0066CC?style=for-the-badge)
 ![Pose Estimation](https://img.shields.io/badge/Pose_Estimation-purple?style=for-the-badge)
 ![PnP](https://img.shields.io/badge/PnP-00599C?style=for-the-badge)
@@ -86,7 +85,7 @@ This project develops an **autonomous vision-guided interceptor drone** capable 
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![TensorFlow Lite](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge)
+![TF Lite](https://img.shields.io/badge/TF_Lite-FF6F00?style=for-the-badge)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge)
 ![CNN](https://img.shields.io/badge/CNN-E63946?style=for-the-badge)
 ![RNN](https://img.shields.io/badge/RNN-4682B4?style=for-the-badge)
@@ -103,18 +102,15 @@ This project develops an **autonomous vision-guided interceptor drone** capable 
 
 ## ⚙️ Backend Development
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
 ![REST API](https://img.shields.io/badge/REST_API-grey?style=for-the-badge)
 ![WebSocket](https://img.shields.io/badge/WebSocket-1E90FF?style=for-the-badge)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
 ![OAuth2](https://img.shields.io/badge/OAuth2-4285F4?style=for-the-badge)
 ![Uvicorn](https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge)
 ![AsyncIO](https://img.shields.io/badge/AsyncIO-3776AB?style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
-![Swagger/OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=swagger)
 
 ---
 
@@ -167,7 +163,6 @@ This project develops an **autonomous vision-guided interceptor drone** capable 
 ![Signal Processing](https://img.shields.io/badge/Signal_Processing-4682B4?style=for-the-badge)
 ![Digital Electronics](https://img.shields.io/badge/Digital_Electronics-00599C?style=for-the-badge)
 ![Analog Electronics](https://img.shields.io/badge/Analog_Electronics-FF8C00?style=for-the-badge)
-![Communication Systems](https://img.shields.io/badge/Communication_Systems-1E90FF?style=for-the-badge)
 ![Microcontrollers](https://img.shields.io/badge/Microcontrollers-2E8B57?style=for-the-badge)
 ![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-556B2F?style=for-the-badge)
 ![Real-Time Systems](https://img.shields.io/badge/Real--Time_Systems-008080?style=for-the-badge)
