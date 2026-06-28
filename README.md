@@ -50,14 +50,12 @@ This project develops an **autonomous vision-guided interceptor drone** capable 
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
 ![Open3D](https://img.shields.io/badge/Open3D-0080FF?style=for-the-badge)
-![Image Processing](https://img.shields.io/badge/Image_Processing-blue?style=for-the-badge)
-![Object Detection](https://img.shields.io/badge/Object_Detection-red?style=for-the-badge)
-![Multi-Object Tracking](https://img.shields.io/badge/Multi_Object_Tracking-success?style=for-the-badge)
+![Multimedia Processing](https://img.shields.io/badge/Multimedia_Processing-blue?style=for-the-badge)
+![Object Tracking](https://img.shields.io/badge/Object_Tracking-success?style=for-the-badge)
 ![DeepSORT](https://img.shields.io/badge/DeepSORT-009688?style=for-the-badge)
 ![ByteTrack](https://img.shields.io/badge/ByteTrack-FF4500?style=for-the-badge)
 ![Kalman Filter](https://img.shields.io/badge/Kalman_Filter-0066CC?style=for-the-badge)
-![Pose Estimation](https://img.shields.io/badge/Pose_Estimation-purple?style=for-the-badge)
-![PnP](https://img.shields.io/badge/PnP-00599C?style=for-the-badge)
+![Pose Estimation](https://img.shields.io/badge/[PnP]_Pose_Estimation-purple?style=for-the-badge)
 ![Triangulation](https://img.shields.io/badge/Triangulation-darkgreen?style=for-the-badge)
 ![Stereo Vision](https://img.shields.io/badge/Stereo_Vision-4B0082?style=for-the-badge)
 ![Camera Geometry](https://img.shields.io/badge/Camera_Geometry-grey?style=for-the-badge)
@@ -160,12 +158,11 @@ This project develops an **autonomous vision-guided interceptor drone** capable 
 ![Control Systems](https://img.shields.io/badge/Control_Systems-800000?style=for-the-badge)
 ![Mechatronics](https://img.shields.io/badge/Mechatronics-8A2BE2?style=for-the-badge)
 ![Signal Processing](https://img.shields.io/badge/Signal_Processing-4682B4?style=for-the-badge)
-![Digital Electronics](https://img.shields.io/badge/Digital_Electronics-00599C?style=for-the-badge)
 ![Analog Electronics](https://img.shields.io/badge/Analog_Electronics-FF8C00?style=for-the-badge)
 ![Microcontrollers](https://img.shields.io/badge/Microcontrollers-2E8B57?style=for-the-badge)
 ![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-556B2F?style=for-the-badge)
 ![Real-Time Systems](https://img.shields.io/badge/Real--Time_Systems-008080?style=for-the-badge)
-![System Architecture](https://img.shields.io/badge/System_Architecture-696969?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System_Design-696969?style=for-the-badge)
 
 ---
 
