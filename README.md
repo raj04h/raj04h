@@ -55,7 +55,6 @@ This project develops an **autonomous vision-guided interceptor drone** capable 
 ![Multi-Object Tracking](https://img.shields.io/badge/Multi_Object_Tracking-success?style=for-the-badge)
 ![DeepSORT](https://img.shields.io/badge/DeepSORT-009688?style=for-the-badge)
 ![ByteTrack](https://img.shields.io/badge/ByteTrack-FF4500?style=for-the-badge)
-![OCR](https://img.shields.io/badge/OCR-6A5ACD?style=for-the-badge)
 ![Kalman Filter](https://img.shields.io/badge/Kalman_Filter-0066CC?style=for-the-badge)
 ![Pose Estimation](https://img.shields.io/badge/Pose_Estimation-purple?style=for-the-badge)
 ![PnP](https://img.shields.io/badge/PnP-00599C?style=for-the-badge)
